@@ -1,3 +1,8 @@
+[Term]
+Software
+name: Peak-by-Peak
+def: "Spectroswiss Peak-by-Peak is software suite for bottom-up, middle and top - down MS data analysis. The FTMS Isotopic Simulator is a Peak-by-Peak software tool for accurate simulations of FTMS isotopic envelopes and mass spectra."
+
 format-version: 1.2
 data-version: 4.1.237
 date: 19:02:2026 12:00
